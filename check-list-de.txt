@@ -1,0 +1,6 @@
+customer (
+    - table [
+        customer,
+        address
+    ]
+)
